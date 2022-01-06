@@ -51,29 +51,7 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 
 ➡️ [more videos...](https://www.youtube.com/c/HarishChouhan)
 
----
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="My GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hchouhan&show_icons=true&hide_border=true" />
-
-</details>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hchouhan&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hchouhan&repo=convoychat" />
-</a>
 
 [website]: https://harishchouhan.com
 [twitter]: https://twitter.com/harishchouhan
