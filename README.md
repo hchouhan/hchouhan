@@ -27,6 +27,24 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 
 ---
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://harishchouhan.com)
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/c/HarishChouhan)
+
+---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
