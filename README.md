@@ -39,6 +39,9 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Longest Ride of 2020 so far](https://www.youtube.com/watch?v=gu68s0rYXq0)
+- [Sunset at Cat Ba, Vietnam](https://www.youtube.com/watch?v=5j4XmWcjTDY)
+- [Hyper Lapse attempt 01](https://www.youtube.com/watch?v=MkbdjdH2e0Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/HarishChouhan)
