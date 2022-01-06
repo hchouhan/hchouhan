@@ -1,15 +1,18 @@
-### Hi there, I'm Harish. To know more about me check out my [website][website] 👋 
+### Hi there, I'm Harish. To know more about me check my [website][website] 👋 
 
 [![Website](https://img.shields.io/website?label=harishchouhan.com&style=for-the-badge&url=https%3A%2F%2Fharishchouhan.com)](https://harishchouhan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/harishchouhan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=HarishChouhan)
 
-## I'm a human who loves building websites, reading books and cycling!!
+## Who's Harish?
 
-Design & cycling are 2 things I love the most
+A human who loves art, reading books, cycling (alone), and making stuff. When I'm not doing any of the above, I love to 
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything
-- ⚡ Fun fact: I obsessed with cycling. 
+- Write in my personal diary about random things
+- Talk about bike parts with friends or go on group rides
+- Talk to my wife about philosophy and design, which she manages to forget faster than I could explain. Before I got married, I did the same with my mom, who finally understood my work. 
+
+⚡ I obsess over everything I do in my life, whether it's work or something simple such as cleaning my home or bike.
+
 
 ### Connect with me:
 
@@ -21,24 +24,6 @@ Design & cycling are 2 things I love the most
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/c/HarishChouhan)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://harishchouhan.com)
 
 ---
 
