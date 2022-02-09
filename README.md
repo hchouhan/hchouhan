@@ -51,6 +51,9 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 
 ➡️ [more videos...](https://www.youtube.com/c/HarishChouhan)
 
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
