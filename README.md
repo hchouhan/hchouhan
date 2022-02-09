@@ -51,7 +51,12 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 
 ➡️ [more videos...](https://www.youtube.com/c/HarishChouhan)
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
+  <img align="left" alt="hchouhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hchouhan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 [website]: https://harishchouhan.com
 [twitter]: https://twitter.com/harishchouhan
