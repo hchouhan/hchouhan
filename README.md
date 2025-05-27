@@ -63,7 +63,7 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 
 [website]: https://harishchouhan.com
 [twitter]: https://twitter.com/harishchouhan
-[instagram]: https://www.instagram.com/harish.is.in/
+[instagram]: https://www.instagram.com/harishinvietnam/
 [goodreads]: https://www.goodreads.com/harishchouhan
 [youtube]: https://www.youtube.com/c/HarishChouhan
 [linkedin]: https://www.linkedin.com/in/harishchouhan/
