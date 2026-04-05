@@ -31,10 +31,10 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 
 <!-- BLOG-POST-LIST:START -->
 - [Our Rainy Anniversary Weekend in Hội An](https://harishchouhan.com/7-anniversary-hoi-an-vietnam/)
+- [2022 Review](https://harishchouhan.com/2022-review/)
 - [2021 Review: The year in which I found myself](https://harishchouhan.com/2021-review/)
 - [Learning Vietnamese &amp; re-learning design](https://harishchouhan.com/learning-vietnamese-re-learning-design/)
 - [My Work Setup](https://harishchouhan.com/my-work-setup/)
-- [Why I joined e-Residency](https://harishchouhan.com/why-i-joined-e-residency/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://harishchouhan.com)
