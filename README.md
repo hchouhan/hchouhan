@@ -44,11 +44,11 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Weekend ride exploring a new road at the base of Hai Van Pass.](https://www.youtube.com/shorts/EXyvlM2CJCE)
 - [Speeding Through Sơn Trà 🚗💨 - #danang #vietnam](https://www.youtube.com/shorts/qMr1lE32g7w)
 - [Sontra Marina #danang #vietnam](https://www.youtube.com/shorts/KxxCIRDuoXM)
 - [📍Secret Beach in #danang  🇻🇳 | Hidden Swing Spot #VietnamTravel #DaNang #BeachLife #vietnam](https://www.youtube.com/shorts/FnYhXZGsk14)
 - [Our Rainy Anniversary Weekend in Hội An](https://www.youtube.com/shorts/eO-ZvYDFEDo)
-- [Longest Ride of 2020 so far](https://www.youtube.com/watch?v=gu68s0rYXq0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/HarishChouhan)
