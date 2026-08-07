@@ -51,23 +51,20 @@ A human who loves art, reading books, cycling (alone), and making stuff. When I'
 - [Sontra Marina #danang #vietnam](https://www.youtube.com/shorts/KxxCIRDuoXM)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://www.youtube.com/c/HarishChouhan)
+➡️ [more videos...](https://www.youtube.com/@HarishinVietnam)
 
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+### :zap: GitHub Stats
 
-  <img align="left" alt="hchouhan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hchouhan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+![hchouhan's GitHub Stats](https://github-stats-extended.vercel.app/api?username=hchouhan&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25)
 
 [website]: https://harishchouhan.com
 [twitter]: https://twitter.com/harishchouhan
 [instagram]: https://www.instagram.com/harishinvietnam/
 [goodreads]: https://www.goodreads.com/harishchouhan
-[youtube]: https://www.youtube.com/c/HarishChouhan
+[youtube]: https://www.youtube.com/@HarishinVietnam
 [linkedin]: https://www.linkedin.com/in/harishchouhan/
 
 [webtions]: http://webtions.com
